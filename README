@@ -1,0 +1,14 @@
+Running:
+
+After installing sbt - simple-build-tool use the following commands:
+
+sbt update
+sbt console
+
+This will download dependencies, build the code and start up a a scala console
+with akka available.
+
+See blog for further explanation:
+
+http://exploratoryprojects.blogspot.com/2010/12/trying-out-akka.html
+
